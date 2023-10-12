@@ -28,6 +28,8 @@ const Navbar = () => {
       <NavLink to="/" >Home </NavLink>
       <NavLink to="/about" >About</NavLink>
       <NavLink onClick={handleClick} > Dark </NavLink>
+
+      
       </div>
     </nav>
     <div>
